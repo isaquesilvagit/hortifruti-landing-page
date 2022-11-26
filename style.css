@@ -144,11 +144,7 @@ body{
     .nav-item{
         margin: 16px 0;
     }
-@media (max-width:600px) {      
-    .home-img img{
-        width: 100%;
-   }
-}    
+    
     /*main*/
     .home{
         padding: 100px 2%;
@@ -168,6 +164,6 @@ body{
         font-size: 15px;
     }
     .home-img{
-        width: 125%;
+        width: 50%;
     }
 }
